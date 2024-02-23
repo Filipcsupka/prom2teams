@@ -27,9 +27,9 @@ prom2teams:
   port: 8089
   monitoring_port: 9090
   connector:
-  - devops: https://prosoftke.webhook.office.com/webhookb2/49944610-ed87-452c-8a1b-b69efe24426e@e0ba1e1a-2c8d-4a6d-aad6-5319da3aa328/IncomingWebhook/70d92eb4959d428797502817ecd42e44/0dfb97d4-83a6-413a-85af-064d8f6b5343
-  connectors:
   # - devops: https://prosoftke.webhook.office.com/webhookb2/49944610-ed87-452c-8a1b-b69efe24426e@e0ba1e1a-2c8d-4a6d-aad6-5319da3aa328/IncomingWebhook/70d92eb4959d428797502817ecd42e44/0dfb97d4-83a6-413a-85af-064d8f6b5343
+  connectors:
+  - devops: https://prosoftke.webhook.office.com/webhookb2/49944610-ed87-452c-8a1b-b69efe24426e@e0ba1e1a-2c8d-4a6d-aad6-5319da3aa328/IncomingWebhook/70d92eb4959d428797502817ecd42e44/0dfb97d4-83a6-413a-85af-064d8f6b5343
   # - bordel: https://prosoftke.webhook.office.com/webhookb2/49944610-ed87-452c-8a1b-b69efe24426e@e0ba1e1a-2c8d-4a6d-aad6-5319da3aa328/IncomingWebhook/70d92eb4959d428797502817ecd42e44/0dfb97d4-83a6-413a-85af-064d8f6b5xxx
 
   # group_alerts_by can be one of
